@@ -1,2 +1,2 @@
 # Website Stuff.
-Here's where all the coded things I have on my site go to, and other stuff.
+I literally want to facepalm myself for how cringefilled this stuff is.
