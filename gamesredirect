@@ -12,7 +12,8 @@
 <p>
 <audio controls autoplay>
 	<source src="http://www.o355.us/o355-cdn/awesome.mp3" type="audio/mpeg">
-	Your browser doesn't support audio. Wow. Skrub. Get quickscoped.
+	# Your browser doesn't support audio. Wow. Skrub. Get quickscoped.
+	# That has been removed since it was too horrible.
 </audio>
 </body>
 </html>
